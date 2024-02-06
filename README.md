@@ -1,4 +1,4 @@
-# React Image Slider
+# React Load More Data
 
 ## Available Scripts
 
